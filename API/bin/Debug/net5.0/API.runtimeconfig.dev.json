@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/rinae/.dotnet/store/|arch|/|tfm|",
+      "/Users/rinae/.nuget/packages"
+    ]
+  }
+}
